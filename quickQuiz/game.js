@@ -37,7 +37,7 @@ getNextQuestion=()=>{
     if(questionCounter>= MAX_QUESTIONS || availableQuestions.length==0){
         //Go to the end page
         localStorage.setItem("recentScore",score);
-       return window.location.assign('/end.html');
+       return window.location.assign('./end.html');
     }
     questionCounter++;
     questionCounterText.innerText='Question  '+questionCounter+'/'+MAX_QUESTIONS;
