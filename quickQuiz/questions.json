@@ -1,0 +1,26 @@
+[
+    {
+        "question":"how to define a string?",
+        "choice1 ":"int string",
+        "choice2": "string s",
+        "choice3": "Not me",
+        "choice4": "s String",
+        "answer":2
+    },
+    {
+        "question":"how to define an integer varaible?",
+        "choice1":"int string",
+        "choice2": "string s",
+        "choice3": "Not me",
+        "choice4": "s String",
+        "answer":1
+    },
+    {
+        "question":"What is written in python?",
+        "choice1 ":"int string",
+        "choice2": "string s",
+        "choice3": "x=10",
+        "choice4": "s String",
+        "answer":3
+    }
+]
